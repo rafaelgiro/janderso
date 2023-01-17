@@ -13,7 +13,7 @@ main {
 
 body {
   font-family: "Comic Neue", cursive;
-  background-image: url("/assets/background.jpg");
+  background-image: url("/janderson/assets/background.jpg");
   background-repeat: repeat;
   padding: 4rem;
 }
